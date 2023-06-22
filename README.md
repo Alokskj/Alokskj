@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alokskj
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning web devlopment
+- 🌱 I’m a mern stack developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
